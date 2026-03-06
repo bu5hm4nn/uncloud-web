@@ -1,0 +1,9 @@
+{
+  "subject": "acct:admin@uncloud.tech",
+  "links": [
+    {
+      "rel": "http://openid.net/specs/connect/1.0/issuer",
+      "href": "https://auth.uncloud.tech/auth/v1"
+    }
+  ]
+}
